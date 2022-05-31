@@ -147,7 +147,7 @@ http://localhost:8000/docs
 
 ## FastAPI Example :
 
-![This is a alt text.](/sample.png "This is a sample image.")
+![This is a alt text.](/sample1.png "This is a sample image.")
 
 - - -
 
