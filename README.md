@@ -38,7 +38,7 @@ class Blockchain:
     def __init__(self) -> None:
         ....
 ```
-*Whenever an object of Block is instantiated , an **Gensis block** ( First block ) will be created to kick start the chain.*
+*Whenever an object of Block is instantiated , an **Genesis block** ( First block ) will be created to kick start the chain.*
 
 
 ```
